@@ -1,2 +1,2 @@
 # LightEngine
-A light light graphics engine For study
+A light graphics engine For study
